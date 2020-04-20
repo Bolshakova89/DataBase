@@ -44,8 +44,8 @@ while True:
         DB_new.clear()
         DB.clear()
         count_TR = 0
-    print(DB)
-    print(count_TR)
+#    print(DB)
+#    print(count_TR)
 #    print(DB_new.get(count_TR))
 # GET A
 # NULL
